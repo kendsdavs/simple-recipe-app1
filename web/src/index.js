@@ -1,6 +1,6 @@
 const React = require('react')
-const ReactDom = require('react-dom')
+const ReactDOM = require('react-dom')
 
-const App = () => <h1>Hello, React</h1>
+const App = require('./App')
 
 ReactDOM.render(<App />, document.getElementById('root'))

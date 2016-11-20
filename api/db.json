@@ -1,5 +1,28 @@
 {
-  "recipes": [],
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Pancakes"
+    },
+    {
+      "id": 3,
+      "name": "Blondies"
+    },
+    {
+      "name": "lewis Corn Pudding",
+      "ingredients": "Corn, milk, cheese, peppers",
+      "link": "http://www.postandcourier.com/green-chile-corn-pudding/article_bbe7a818-a10d-11e6-ae8a-5f817c827214.html",
+      "success": false,
+      "id": "4"
+    },
+    {
+      "name": "Chili",
+      "ingredients": "Beef, Kidney beans, spices",
+      "link": "",
+      "success": false,
+      "id": 5
+    }
+  ],
   "ingredients": [],
   "users": []
 }
